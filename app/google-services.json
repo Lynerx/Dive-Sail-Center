@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829191698301",
+    "firebase_url": "https://dive-sail-center.firebaseio.com",
+    "project_id": "dive-sail-center",
+    "storage_bucket": "dive-sail-center.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829191698301:android:7291f2b947b96f7f",
+        "android_client_info": {
+          "package_name": "com.example.dive_sail_center"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829191698301-7vm1mht7encp15o3pbo2p9m54rmja2mo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dive_sail_center",
+            "certificate_hash": "8e1cbe7b9386e006dd5b02f3af3c91fe426d289a"
+          }
+        },
+        {
+          "client_id": "829191698301-mn840m91hm9sor54aae30jcjc6bvr599.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrxwKjdPQErNUaOZz70vQm13IOpH-y6Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829191698301-mn840m91hm9sor54aae30jcjc6bvr599.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

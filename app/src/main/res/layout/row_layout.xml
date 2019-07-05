@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/row_layout"
+    tools:ignore="ContentDescription"
+    >
+
+    <ImageView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:id="@+id/id_image_d1"
+        android:layout_width="183dp"
+        android:layout_height="121dp"
+        android:layout_marginStart="10dp"
+        android:src="@drawable/d1"/>
+
+    <ImageView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:id="@+id/id_image_d2"
+        android:layout_width="wrap_content"
+        android:layout_height="295dp"
+        android:layout_marginStart="205dp"
+        android:layout_marginEnd="10dp"
+        android:src="@drawable/d2" />
+
+    <ImageView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:id="@+id/id_image_d3"
+        android:layout_width="185dp"
+        android:layout_height="272dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="140dp"
+        android:src="@drawable/d3" />
+
+
+    <ImageView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:id="@+id/id_image_d4"
+        android:layout_width="185dp"
+        android:layout_height="140dp"
+        android:layout_marginStart="10sp"
+        android:layout_marginTop="425sp"
+        android:src="@drawable/d4"/>
+
+    <ImageView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:id="@+id/id_image_d5"
+        android:layout_width="192dp"
+        android:layout_height="124dp"
+        android:layout_marginStart="205sp"
+        android:layout_marginTop="315sp"
+        android:src="@drawable/d5" />
+
+    <ImageView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:focusable="true"
+        android:id="@+id/id_image_d6"
+        android:layout_width="187dp"
+        android:layout_height="129dp"
+        android:layout_marginStart="205sp"
+        android:layout_marginTop="455sp"
+        android:src="@drawable/d6"
+        android:layout_marginBottom="30dp"
+        />
+
+</RelativeLayout>

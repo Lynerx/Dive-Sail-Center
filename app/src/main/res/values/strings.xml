@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Dive &amp; Sail Center</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dive &amp; Sail Center </string>
+    <string name="nav_header_subtitle">Azores - São Jorge</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_dive_center">Dive Center</string>
+    <string name="menu_sail_center">Sail Center</string>
+    <string name="menu_spots">Our Spots</string>
+    <string name="menu_courses">Courses</string>
+    <string name="menu_rules">DIVING RULES</string>
+    <string name="menu_about">About Us</string>
+    <string name="title_activity_maps_spots">Map</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="title_liveaboard">LIVEABOARD´S</string>
+    <string name="text_liveaboard">Join the Sail to the Diving and enjoy a dream vacation. With a specialized staff in both areas we can guarantee the best of both worlds.
+    During your adventure on board our boat, make up to two dives per day and get to know the best spots in the Azores.</string>
+    <string name="title_scuba">SCUBA DIVING</string>
+    <string name="text_scuba">Scuba Diving is our main activity.From Baixa dos Rosais to Ilhéu do Topo, we have a wide range of unforgettable spots. We organize Diving Trips for
+        different levels of experience. If you would like to have a first experience of diving, we have for you baptisms of pool and sea.</string>
+    <string name="title_snorrkeling">SNORKELING</string>
+    <string name="text_snorkeling">If you like to observe underwater beauty but do not like depth, this is the solution for you.
+        We encourage snorkeling trips for all levels and ages, where you can observe underwater rock formations and live with the surrounding marine life.</string>
+
+
+    <string name="title_yacht">YACHT CHARTER</string>
+    <string name="text_yacht">Accompanied by an experienced Skipper, you can free yourself from all the worries and enjoy, with family or friends,
+        the most beautiful landscapes that the Azores have to offer.</string>
+
+    <string name="title_sailing">SAILING TOURS</string>
+    <string name="text_sailing">With us you can enjoy a pleasant sail tour along the coast of São Jorge island, you can visit its fajãs, take a break to
+        swim or even observe the marine life that surrounds us. During your tour you can also participate in the navigation and learn a little more about the activity.</string>
+
+    <string name="title_paddle">PADDLE &amp; KAYAK</string>
+    <string name="text_paddle">To know the hidden secrets of our coast we suggest a Stand Up Paddle or Kayak tour.
+        You can choose to take a guided tour, where we will introduce you to the most special sites, or you can rent and break the discovery.</string>
+
+    <string name="title_boat">BOAT TOURS</string>
+    <string name="text_boat">With us you can enjoy a pleasant tour along the coast of São Jorge, you can visit its “Fajãs”, take a break to swim or even observe the marine life that surrounds us.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
